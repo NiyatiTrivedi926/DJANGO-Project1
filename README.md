@@ -1,1 +1,2 @@
-DJANGO
+**Django Project using Python**
+
